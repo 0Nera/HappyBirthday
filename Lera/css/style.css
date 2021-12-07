@@ -37,7 +37,6 @@
 /* back, initially hidden pane */
 .back {
     transform: rotateY(180deg);
-    background-color:rgb(0, 0, 0);
 }
 
 body {
